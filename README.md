@@ -3,7 +3,7 @@ This Python code provides a user-friendly tool to explore US population data sto
 
 
 
-# Functionality:
+### Functionality:
 To be used as an interactive tool for analyzing US population data from 1960 to 2022. It reads the data from a text file (`USPopulation1.txt`) and presents a menu-driven interface for users to explore the information in various ways:
 
 Option 1: Display Population for Year: Users can enter a specific year between 1960 and 2022 to retrieve the corresponding population value.
@@ -15,6 +15,6 @@ Option 6: Exit: Users can terminate the program at any point.
 
 
 
-# Error Handling:
+### Error Handling:
 The code incorporates error handling to validate user input for years. If a user enters a value outside the 1960-2022 range, an error message is displayed.
 
