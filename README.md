@@ -1,5 +1,5 @@
 # Python-Population-Project
-This Python code provides a user-friendly tool to explore US population data stored in the `USPopulation1.txt` file. It offers various functionalities through a menu interface.
+User-friendly tool to explore US population data stored in the `USPopulation1.txt` file. It offers various functionalities through a menu interface.
 
 
 
